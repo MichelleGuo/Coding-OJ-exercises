@@ -1,4 +1,4 @@
-package onlieJudge;
+package huawei;
 
 import java.util.Scanner;
 

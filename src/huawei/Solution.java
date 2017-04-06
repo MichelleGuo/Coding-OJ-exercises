@@ -1,4 +1,4 @@
-package onlieJudge;
+package huawei;
 
 /**
  * Created by ZeyingGuo on 2017/3/24.
